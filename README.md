@@ -48,8 +48,11 @@
    </td>
   </tr>
 
-  <tr>
+<!-- 인프라 & 툴-->
+<tr>
    <th>🛠️ Infra and Tools</th>
+</tr>
+  <tr>
    <td align="center">
      <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white" height=25px />
      <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height=25px>
