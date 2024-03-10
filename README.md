@@ -27,7 +27,7 @@
      <img src="https://img.shields.io/badge/JWT-97979A?style=flat-square&logo=&logoColor=white" height=25px />
      <br/>
      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" height=25px />
-     <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" height=25px />
+     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" height=25px />
      
   </tr>
 
@@ -60,7 +60,7 @@
      <img src="https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" height=25px>
     <br/>
     <img src="https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white" height=25px>
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=intellijidea&logoColor=white" height=25px />
+     <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" height=25px />
    </td>
   </tr>
   
