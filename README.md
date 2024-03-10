@@ -13,7 +13,7 @@
   
   <!--백엔드-->
   <tr>
-   <th>Back-End</th>
+   <th>**🧑‍💻 Lang and Frameworks** </th>
   </tr>
   <tr>
     <td align="center">
