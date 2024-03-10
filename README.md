@@ -12,11 +12,11 @@
   <!--백엔드-->
   
   <tr>
-   <th>🦾 Skills</th>
+   <th>🧑‍💻 Skills</th>
   </tr>
   
   <tr>
-   <th>🧑‍💻 Lang and Frameworks </th>
+   <th> Back-End </th>
   </tr>
   
   <tr>
@@ -36,7 +36,7 @@
   <!--프론트엔드-->
   <tr>       
    <th >
-    Front-end
+    Front-End
    </th>
   </tr>
   <tr>
