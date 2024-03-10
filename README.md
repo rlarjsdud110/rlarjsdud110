@@ -28,7 +28,7 @@
      <br/>
      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" height=25px />
      <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" height=25px />
-     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=intellijidea&logoColor=white" height=25px />
+     
   </tr>
 
   
@@ -54,8 +54,13 @@
 </tr>
   <tr>
    <td align="center">
-     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white" height=25px />
+     <img src="https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white" height=25px />
      <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height=25px>
+     <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height=25px>
+     <img src="https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" height=25px>
+    <br/>
+    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white" height=25px>
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=intellijidea&logoColor=white" height=25px />
    </td>
   </tr>
   
