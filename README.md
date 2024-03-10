@@ -27,6 +27,8 @@
      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" height=25px />
      <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white" height=25px />
      <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" height=25px />
+     <img src="https://img.shields.io/badge/redis?style=flat-square&logo=intellijidea&logoColor=white" height=25px />
+
     </td>
   </tr>
 
