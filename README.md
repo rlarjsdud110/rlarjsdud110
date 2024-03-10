@@ -7,10 +7,9 @@
 
 <!-- Body -->
 
-### 🦾 Skills
-**🧑‍💻 Lang and Frameworks**  <tr>
+
  <table align="center">                      <!-- 기술스텍 테이블 -->
-  
+  ### 🦾 Skills
   <!--백엔드-->
   <tr>
    <th>**🧑‍💻 Lang and Frameworks** </th>
