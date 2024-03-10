@@ -52,8 +52,10 @@
    <th>🛠️ Infra and Tools</th>
    <td align="center">
      <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white" height=25px />
-     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white />
+     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height=25px>
+   </td>
   </tr>
+  
   <!--협업-->  
   <tr>
    <th>
