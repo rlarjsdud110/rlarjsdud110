@@ -1,6 +1,6 @@
 <!-- Header -->
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=%20안녕하세요%20김건영%20입니다!%20🙇&fontAlign=82&fontAlignY=40&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=%20안녕하세요%20김건영%20입니다!%20🙇&fontAlign=60&fontAlignY=40&color=gradient)
 
 
 
