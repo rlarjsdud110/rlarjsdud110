@@ -9,10 +9,11 @@
 
 
  <table align="center">                      <!-- 기술스텍 테이블 -->
-  ### 🦾 Skills
+  
   <!--백엔드-->
+  🦾 Skills
   <tr>
-   <th>**🧑‍💻 Lang and Frameworks** </th>
+   <th>🧑‍💻 Lang and Frameworks </th>
   </tr>
   <tr>
     <td align="center">
