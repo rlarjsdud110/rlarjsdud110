@@ -1,12 +1,12 @@
 <!-- Header -->
 
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=%70안녕하세요%20김건영%20입니다!%&fontAlign=40&fontAlignY=40&color=gradient)
 
 
 
 
 <!-- Body -->
 
-🙇 안녕하세요, 함께 하는 가치를 추구하는 이연주 입니다!
 
  <table align="center">                      <!-- 기술스텍 테이블 -->
   
