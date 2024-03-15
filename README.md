@@ -23,7 +23,6 @@
     <td align="center">
      <img src="https://img.shields.io/badge/Java-f3b348?style=flat-square&logo=&logoColor=white" height=25px />
      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" height=25px />
-     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white" height=25px />
      <br/>
      <img src="https://img.shields.io/badge/JWT-97979A?style=flat-square&logo=&logoColor=white" height=25px />
      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" height=25px />
