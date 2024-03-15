@@ -1,6 +1,7 @@
 <!-- Header -->
-
+<td align="center">
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=%20안녕하세요%20김건영%20입니다!%&fontAlign=50&fontAlignY=40&color=gradient)
+   </td>
 
 
 
@@ -27,7 +28,8 @@
      <br/>
      <img src="https://img.shields.io/badge/JWT-97979A?style=flat-square&logo=&logoColor=white" height=25px />
      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" height=25px />
-     
+        </td>
+
   </tr>
 
   
