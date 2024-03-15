@@ -1,7 +1,7 @@
 <!-- Header -->
-<td align="center">
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=%20안녕하세요%20김건영%20입니다!%&fontAlign=50&fontAlignY=40&color=gradient)
-   </td>
+
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=%20안녕하세요%20김건영%20입니다!%&fontAlign=center&fontAlignY=center&color=gradient)
+
 
 
 
